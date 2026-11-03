@@ -1,0 +1,5 @@
+sentence-transformers
+pypdf
+numpy
+fastapi
+uvicorn
